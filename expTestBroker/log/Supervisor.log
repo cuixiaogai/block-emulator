@@ -1,0 +1,133 @@
+Supervisor: 2025/04/23 15:51:20 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:51:21 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:51:22 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:51:23 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:51:25 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:51:26 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:51:26 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:51:26 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:51:30 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:51:32 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:51:33 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:51:34 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:51:35 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:51:36 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:51:36 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:51:38 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:51:41 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:51:42 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:51:43 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:51:43 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:51:45 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:51:46 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:51:47 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:51:47 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:51:51 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:51:52 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:51:52 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:51:53 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:51:56 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:51:56 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:51:57 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:51:57 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:52:00 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:52:02 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:52:02 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:52:03 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:52:05 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:52:07 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:52:07 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:52:08 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:52:11 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:52:12 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:52:13 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:52:13 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:52:16 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:52:16 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:52:17 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:52:18 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:52:20 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:52:22 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:52:23 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:52:23 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:52:26 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:52:27 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:52:27 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:52:28 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:52:31 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:52:32 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:52:33 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:52:34 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:52:36 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:52:37 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:52:37 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:52:37 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:52:40 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:52:42 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:52:43 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:52:43 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:52:45 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:52:47 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:52:48 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:52:49 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:52:51 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:52:51 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:52:51 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:52:52 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:52:55 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:52:57 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:52:58 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:52:59 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:53:01 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:53:01 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:53:01 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:53:01 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:53:05 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:53:05 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:53:07 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:53:08 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:53:10 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:53:11 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:53:12 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:53:12 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:53:15 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:53:16 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:53:16 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:53:16 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:53:20 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:53:20 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:53:21 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:53:21 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:53:25 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:53:25 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:53:25 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:53:26 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:53:30 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:53:30 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:53:30 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:53:30 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:53:35 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:53:35 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:53:35 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:53:35 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:53:40 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:53:40 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:53:40 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:53:40 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:53:45 committee_broker.go:149: received from shard 2 in epoch 0.
+Supervisor: 2025/04/23 15:53:45 committee_broker.go:149: received from shard 3 in epoch 0.
+Supervisor: 2025/04/23 15:53:45 committee_broker.go:149: received from shard 0 in epoch 0.
+Supervisor: 2025/04/23 15:53:45 committee_broker.go:149: received from shard 1 in epoch 0.
+Supervisor: 2025/04/23 15:53:46 supervisor.go:128: Supervisor: now sending cstop message to all nodes
+Supervisor: 2025/04/23 15:53:46 supervisor.go:137: Supervisor: now Closing
+Supervisor: 2025/04/23 15:53:46 supervisor.go:194: Closing...
+Supervisor: 2025/04/23 15:53:46 supervisor.go:196: Average_TPS
+Supervisor: 2025/04/23 15:53:46 supervisor.go:197: [1230.116581062226] 1230.116581062226
+Supervisor: 2025/04/23 15:53:46 supervisor.go:196: Transaction_Confirm_Latency
+Supervisor: 2025/04/23 15:53:46 supervisor.go:197: [25.640230449109495] 25.640230449109495
+Supervisor: 2025/04/23 15:53:46 supervisor.go:196: CrossTransaction_ratio
+Supervisor: 2025/04/23 15:53:46 supervisor.go:197: [0.2247625 160000 35962] 0.2247625
+Supervisor: 2025/04/23 15:53:46 supervisor.go:196: Tx_number
+Supervisor: 2025/04/23 15:53:46 supervisor.go:197: [160000] 160000
+Supervisor: 2025/04/23 15:53:46 supervisor.go:196: Tx_Details
+Supervisor: 2025/04/23 15:53:46 supervisor.go:197: [] 0
