@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # 读取CSV文件
-file_path = './expTest/result/supervisor_measureOutput/Tx_Details.csv'  # 替换为你的CSV文件路径
+file_path = './expTestBroker/result/supervisor_measureOutput/Tx_Details.csv'  # 替换为你的CSV文件路径
 df = pd.read_csv(file_path)
 
 # 提取 "Confirmed latency of this tx (ms)" 列
@@ -24,7 +24,7 @@ sns.set(style='whitegrid')
 plt.figure(figsize=(10, 6))
 
 # 绘制核密度估计曲线
-density_kwargs = {'lw': 2, 'alpha': 0.7}
+density_kwargs = {'lw': 2, 'alpha': 0.7, 'bw_adjust': 8}
 
 # 所有交易
 sns.kdeplot(latency_data_1, color='blue', label='All Txs', **density_kwargs)
